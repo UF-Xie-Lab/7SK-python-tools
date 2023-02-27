@@ -1,5 +1,5 @@
 # 7SK-python-tools
-A set of scripts in python used for analysis of ChIP-seq and SLAM-seq datasets
+A set of scripts in python used for analysis of ChIP-seq and m6A-seq datasets
 
 conversion_rate.py takes in a conversion table, as output by `hisat-3n-table` from HISAT-3N, and determines the total percent of converted bases relative to the total number of bases.
 
